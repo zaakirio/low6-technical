@@ -1,6 +1,7 @@
 # Infection Spread Simulator
 
 A React + TypeScript application that simulates the spread of infection in a 2D grid, where cells can be Healthy (H), Infected (I), or Recovered (R).
+https://low6-technical.netlify.app
 
 
 ## Prerequisites
