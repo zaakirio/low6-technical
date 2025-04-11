@@ -36,7 +36,7 @@ const InfectionSimulator: React.FC = () => {
                 grid: initialInfection.grid,
                 infectedCells: initialInfection.infectedCells,
                 recoveryTime,
-                infectionTimers: initialInfection.infectionTimers
+                infectionTick: initialInfection.infectionTick
             });
         }
     }, [showConfig, gridSize, initialInfected, recoveryTime]);
